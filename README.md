@@ -2,7 +2,7 @@
 
 Mobile money users in Ghana run into wrong number transfers, failed debits and pending reversals all the time. The evidence ends up scattered across screenshots and SMS, the transaction reference gets lost, the escalation window passes, and the user has nothing organised to show the network's support team. MoMo Trail gives each user one private place to log a case and follow it until it is resolved. Access control is enforced by Postgres Row Level Security (RLS) in Supabase, not by frontend code.
 
-**Live link:** _TODO: add the Vercel URL after deploy_
+**Live link:** https://momo-trail.vercel.app
 
 ## How to use MoMo Trail
 
